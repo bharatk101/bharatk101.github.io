@@ -1,0 +1,27 @@
+.portfolio-heading {
+    text-align: center;
+}
+
+.portfolio-details {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.25) !important;
+}
+.card-styling{
+    background-color: transparent;
+}
+
+.text-color {
+    color: #787878 !important;
+}
+
+@media (max-width: 768px) {
+
+    .portfolio {
+        margin-bottom: 32px;
+    }
+
+
+}
+
+.text-color-button {
+    color: #aa2447 !important;
+}

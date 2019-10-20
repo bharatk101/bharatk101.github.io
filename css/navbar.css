@@ -1,0 +1,30 @@
+.navbar {
+    font-size: 20px !important;
+    height: 70px;
+}
+
+.navbar li *{
+    color: black !important;
+}
+
+
+@media (min-width: 769px) {
+
+    .navbar li {
+        padding: 0 20px;
+    }
+
+    .navbar li *{
+        padding: 0 20px;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+    .user-details {
+        margin-top: 60px;
+        text-align: center;
+    }
+
+}

@@ -1,0 +1,12 @@
+.headings {
+    font-weight: bolder;
+}
+
+.user-university {
+    font-size: 18px;
+    color: #707070;
+}
+.user-university-duration {
+    font-size: 18px;
+    float: right;
+}

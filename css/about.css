@@ -1,0 +1,28 @@
+.about-user-holder *{
+    font-weight: bolder;
+}
+
+.about-user {
+    font-size: 18px;
+}
+
+.custom-badge-tech {
+    padding: 10px 20px;
+    letter-spacing: 1px;
+    margin: 8px 2px;
+    background-color: transparent;
+    outline: #aa2447;
+    color: #aa2447;
+    border: 1px #aa2447 solid;
+}
+
+@media (max-width: 768px) {
+
+    #about {
+        margin-top: 64px;
+    }
+
+    #about-user {
+        margin-top: 64px;
+    }
+}
